@@ -1,0 +1,5 @@
+NOTE:
+
+- To run the reciprocity function type the following in the command line:
+
+recip <input> <output> <#reducers>
